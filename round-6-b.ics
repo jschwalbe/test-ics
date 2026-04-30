@@ -639,23 +639,6 @@ ATTENDEE;CN=Tamara Schwalbe;CUTYPE=INDIVIDUAL:mailto:tamara@justinandtama
  ra.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=en-US:Appointment Time: 11:15 AM EST\nPhone: 574-335
- -8399\n\n\n\n\nPlease bring your insurance card and/or Information\, pho
- to ID\, a copy of \nyour current medication list and a copayment if requ
- ired by your insurance \ncompany \n\n\n
-DTEND:20241209T163000Z
-DTSTAMP:20241209T132832Z
-DTSTART:20241209T160000Z
-LAST-MODIFIED:20241209T132823Z
-LOCATION;LANGUAGE=en-US:1122 S. Ironwood Dr\, South Bend IN 46615-1618
-ORGANIZER;CN=MyChart;EMAIL=DONOTREPLY@TRINITY-HEALTH.ORG;SCHEDULE-AGENT=N
- ONE:mailto:DONOTREPLY@TRINITY-HEALTH.ORG
-SEQUENCE:0
-SUMMARY;LANGUAGE=en-US:Office Visit with A Battjes\, DO for Olivia
-UID:WP-24JlsSmnGQ7hRFg46uCuR4qg-3D-3D-24981bZ7wQTaWPV1STZRpC-2F5KSrMXh8dR
- 01GEeWYClESc-3D@mychart.trinity-health.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION;LANGUAGE=en-US:Phone: 574-335-4500\n\n\n1. Do not use lotions
  \, powders or deodorants under the arm or around the \nbreast area.\n\n2
  . Please wear a mask during your visit at Saint Joseph Health System.\n
