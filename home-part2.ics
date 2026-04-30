@@ -27278,7 +27278,7 @@ DESCRIPTION:Confirmation Number: 41456009\n\nGuest Name: schwalbe\n\nHote
 SEQUENCE:0
 CLASS:PRIVATE
 CONFERENCE;VALUE=URI:tel://1-440-9517333
-SUMMARY;LANGUAGE=en-us:Holiday Inn Reservation: Cleveland Northeast - Men
+SUMMARY:Holiday Inn Reservation: Cleveland Northeast - Men
  tor  for schwalbe
 LAST-MODIFIED:20210803T031233Z
 DTSTART;VALUE=DATE:20210814
@@ -42093,7 +42093,7 @@ ATTENDEE;CN=Tamara Schwalbe;CUTYPE=INDIVIDUAL:mailto:tamara@justinandtama
  ra.com
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=en-US:Appointment Time: 11:15 AM EST\nPhone: 574-335
+DESCRIPTION:Appointment Time: 11:15 AM EST\nPhone: 574-335
  -8399\n\n\n\n\nPlease bring your insurance card and/or Information\, pho
  to ID\, a copy of \nyour current medication list and a copayment if requ
  ired by your insurance \ncompany \n\n\n
@@ -42101,28 +42101,28 @@ DTEND:20241209T163000Z
 DTSTAMP:20241209T132832Z
 DTSTART:20241209T160000Z
 LAST-MODIFIED:20241209T132823Z
-LOCATION;LANGUAGE=en-US:1122 S. Ironwood Dr\, South Bend IN 46615-1618
+LOCATION:1122 S. Ironwood Dr\, South Bend IN 46615-1618
 ORGANIZER;CN=MyChart;EMAIL=DONOTREPLY@TRINITY-HEALTH.ORG;SCHEDULE-AGENT=N
  ONE:mailto:DONOTREPLY@TRINITY-HEALTH.ORG
 SEQUENCE:0
-SUMMARY;LANGUAGE=en-US:Office Visit with A Battjes\, DO for Olivia
+SUMMARY:Office Visit with A Battjes\, DO for Olivia
 UID:WP-24JlsSmnGQ7hRFg46uCuR4qg-3D-3D-24981bZ7wQTaWPV1STZRpC-2F5KSrMXh8dR
  01GEeWYClESc-3D@mychart.trinity-health.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=en-US:Phone: 574-335-4500\n\n\n1. Do not use lotions
+DESCRIPTION:Phone: 574-335-4500\n\n\n1. Do not use lotions
  \, powders or deodorants under the arm or around the \nbreast area.\n\n2
  . Please wear a mask during your visit at Saint Joseph Health System.\n
 DTEND:20260311T170000Z
 DTSTAMP:20260311T164025Z
 DTSTART:20260311T164500Z
 LAST-MODIFIED:20260311T164024Z
-LOCATION;LANGUAGE=en-US:611 E Douglas Rd Ste 123\, Mishawaka IN 46545-146
+LOCATION:611 E Douglas Rd Ste 123\, Mishawaka IN 46545-146
  4
 ORGANIZER;CN=MyChart;EMAIL=DONOTREPLY@TRINITY-HEALTH.ORG;SCHEDULE-AGENT=N
  ONE:mailto:DONOTREPLY@TRINITY-HEALTH.ORG
 SEQUENCE:0
-SUMMARY;LANGUAGE=en-US:Screening Mammogram Bilateral with Tomo
+SUMMARY:Screening Mammogram Bilateral with Tomo
 UID:WP-24fN8ylNZex2xU5dFDRlG4HA-3D-3D-24xf75OZKPhDffNQ-2F3gHC0p3vKBpuJ9LW
  bfXquCID1qSs-3D@mychart.trinity-health.org
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAESoQII2TIaE
@@ -42213,7 +42213,7 @@ ORGANIZER;CN=MyChart;SCHEDULE-AGENT=CLIENT:mychart@ccf.org
 UID:WP-24tolTktj6uqmOCqOPelD4qg-3D-3D-24bll5xQGlkT82Va1pR7TGv6TWSpPuOcP1d
  o1EWYIEiYA-3D@mychart.clevelandclinic.org
 DTSTAMP:20220823T131642Z
-LOCATION;LANGUAGE=en-US:2049 E 100TH ST\, Cleveland OH 44195
+LOCATION:2049 E 100TH ST\, Cleveland OH 44195
 DESCRIPTION:Desk A12 on 1st floor Crile\nAppointment Time: 2:20 PM EDT\nP
  hone: 216-444-6612\n\n\nPlease bring your insurance cards\, photo I.D. a
  nd current list of \nmedications.   There are no restrictions for this a
